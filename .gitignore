@@ -212,4 +212,4 @@ _Pvt_Extensions/
 ModelManifest.xml
 
 # Secrets
-config/settings.js
+*config/settings.js
