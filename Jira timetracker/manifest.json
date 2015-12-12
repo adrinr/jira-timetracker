@@ -1,0 +1,19 @@
+{
+	"name" : "Jira time tracker",
+	"description" : "App for tracking Jira tasks easily",
+	"version" : "0.1",
+	"manifest_version" : 2,
+	"app" : {
+		"background" : {
+			"scripts" : ["background.js", "jquery.min.js", "config/settings.js"]
+		}
+	},
+	"icons" : {
+		"16" : "jtt-16.png",
+		"128" : "jtt-128.png"
+	},
+	"permissions" : [
+		"http://*/*",
+		"https://*/*"
+	]
+}
