@@ -1,6 +1,6 @@
 ﻿var globalSettings = {
     Security: {
-        AuthorizeToken: "secret"
+        AuthorizeToken: "secret test"
     },
     Urls: {
         JiraUrl: "secret"
