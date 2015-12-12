@@ -91,7 +91,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="manifest.json" />
-    <Content Include="config\settings.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="My Project\" />
