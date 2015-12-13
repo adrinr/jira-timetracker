@@ -83,6 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="background.js" />
+    <Content Include="config\settings.js" />
     <Content Include="jtt-128.png" />
     <Content Include="jtt-16.png" />
     <Content Include="index.js" />
